@@ -275,11 +275,13 @@ header {
 @media (max-width: 767.98px) {
   .header-top-lang__item {
     font-size: 20px;
+    line-height: 25px;
   }
 }
 @media (max-width: 479.98px) {
   .header-top-lang__item {
     font-size: 20px;
+    line-height: 25px;
   }
 }
 
@@ -398,12 +400,12 @@ header {
 }
 @media (max-width: 767.98px) {
   .header-bottom-menu__link {
-    font-size: 30px;
+    font-size: 35px;
   }
 }
 @media (max-width: 479.98px) {
   .header-bottom-menu__link {
-    font-size: 25px;
+    font-size: 30px;
   }
 }
 
