@@ -253,7 +253,7 @@ header {
 }
 @media (max-width: 767.98px) {
   .header-top-lang {
-    margin: 0px 0px 15px 0px;
+    margin: 5px 0px 15px 0px;
   }
 }
 
@@ -274,15 +274,9 @@ header {
 }
 @media (max-width: 767.98px) {
   .header-top-lang__item {
-    margin-top:5px;
     font-size: 20px;
   }
 }
-@media (max-width: 479.98px) {
-  .header-top-lang__item {
-    margin-top:5px;
-    font-size: 20px;
-  }
 }
 
 .header-top__link {
@@ -296,7 +290,7 @@ header {
 }
 @media (max-width: 479.98px) {
   .header-top__link {
-    font-size: 13px;
+    font-size: 25px;
   }
 }
 
