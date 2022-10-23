@@ -275,13 +275,13 @@ header {
 @media (max-width: 767.98px) {
   .header-top-lang__item {
     font-size: 20px;
-    line-height: 25px;
+    padding: 3px 0 0 0;
   }
 }
 @media (max-width: 479.98px) {
   .header-top-lang__item {
     font-size: 20px;
-    line-height: 25px;
+    padding: 3px 0 0 0;
   }
 }
 
