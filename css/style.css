@@ -283,11 +283,7 @@ header {
   font-size: 15px;
   color: #000;
 }
-@media (max-width: 479.98px) {
-  .header-top__link {
-    font-size: 25px;
-  }
-}
+
 
 .header-bottom {
   margin: -10px 0px 0px 0px;
